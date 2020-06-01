@@ -1,0 +1,5 @@
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb

@@ -1,0 +1,17 @@
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.abstractions.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.runner.utility.net452.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\BasicLibrary.Tests.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\BasicLibrary.Tests.pdb
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\BasicCalculator.exe
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.assert.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.core.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.execution.desktop.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\BasicCalculator.pdb
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.assert.xml
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.core.xml
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\bin\Debug\xunit.execution.desktop.xml
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\obj\Debug\BasicLibrary.Tests.csprojResolveAssemblyReference.cache
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\obj\Debug\BasicLibrary.Tests.dll
+c:\users\ozguns\documents\visual studio 2015\Projects\BasicCalculator\BasicLibrary.Tests\obj\Debug\BasicLibrary.Tests.pdb
